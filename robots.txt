@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://masalf.github.io/webLe3/sitemap.xml
+Sitemap: https://masalf.github.io/sitemap.xml
